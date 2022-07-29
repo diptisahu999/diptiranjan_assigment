@@ -1,0 +1,3 @@
+git add .
+git commit -m 'new command file'
+git push origin main
